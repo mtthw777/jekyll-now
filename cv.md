@@ -24,7 +24,7 @@ my focus of skills is on IT, web design and development, business admin, and sys
 technologies:
 - inkscape (excellent)
 - html, css (excellent)
-- php, oop, mvc (excellent)
+- php, oop, mvc, cli (excellent)
 - jquery (excellent)
 - javascript, nodejs, jekyll (good)
 - ajax (excellent)
@@ -36,7 +36,7 @@ technologies:
 - linux, shell scripting, bash (excellent)
 - webserver admin, nginx, apache, memcached (excellent)
 - linux networking, iptables, firewalls, pfsense (excellent)
-- nsm, cm, wireshark, security onion (excellent)
+- nsm, cm, wireshark, security onion
 - phonegap, bitcoin, raspberry pi, google maps, twilio, yubikey, lots of other stuff... just ask me. 
 
 i fully embrace open-source methods and technology and have a strong interest in security. 
