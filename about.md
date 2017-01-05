@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+hi. im matthew clark. 
 
-### More Information
+here's my [cv]("cv.md"). 
 
-A place to include any other types of information that you'd like to include about yourself.
+this is my [twitter](https://www.twitter.com/mtthw777 "matthew's twitter").
 
-### Contact me
+i dont have a facebook. 
 
-[email@domain.com](mailto:email@domain.com)
+thats all for now.
