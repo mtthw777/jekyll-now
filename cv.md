@@ -4,7 +4,6 @@ title: Cv
 permalink: /cv/
 ---
 
-cv. 
 
 matthew clark. 
 
