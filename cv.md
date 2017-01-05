@@ -17,9 +17,11 @@ in a nutshell:
 - resourceful
 
 primary objective:
+
 i want to be involved in building web-apps, internet businesses, and start-ups, working alone or in a small team, in person or over the internet. 
 
 skills:
+
 my focus of skills is on IT, web design and development, business admin, and systems admin. 
 
 technologies:
