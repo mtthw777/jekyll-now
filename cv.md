@@ -9,6 +9,7 @@ cv.
 matthew clark. 
 
 in a nutshell:
+
 - linux power-nerd
 - able to build web-apps and mobile-apps from scratch
 - can administer servers
@@ -22,6 +23,7 @@ skills:
 my focus of skills is on IT, web design and development, business admin, and systems admin. 
 
 technologies:
+
 - inkscape (excellent)
 - html, css (excellent)
 - php, oop, mvc, cli (excellent)
@@ -44,6 +46,7 @@ i fully embrace open-source methods and technology and have a strong interest in
 education:
 
 i mostly self-learn by reading books and doing online courses, but i do also have some technology and business related credentials:
+
 - diploma web development (polytechnic tasmania)
 - certificate 4 web design (tafe tasmania)
 - certificate 4 small business (mission australia)
