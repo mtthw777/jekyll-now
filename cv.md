@@ -40,7 +40,7 @@ technologies:
 - webserver admin, nginx, apache, memcached (excellent)
 - linux networking, iptables, firewalls, pfsense (excellent)
 - nsm, cm, wireshark, security onion
-- phonegap, bitcoin, raspberry pi, arduino, esp8266, google maps, twilio, yubikey, lots of other stuff... just ask me. 
+- phonegap, bitcoin, raspberry pi, arduino, esp8266, electronics, google maps, twilio, yubikey, lots of other stuff... just ask me. 
 
 i fully embrace open-source methods and technology and have a strong interest in security. 
 
