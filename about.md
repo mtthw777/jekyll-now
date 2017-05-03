@@ -1,6 +1,6 @@
 ---
 layout: page
-title: bbout
+title: about
 permalink: /about/
 ---
 
