@@ -17,7 +17,7 @@ in a nutshell:
 
 primary objective:
 
-i want to be involved with small-to-medium sized businesses (ie. not big faceless corporations) in the development of websites, web-apps, mobile apps, and internet businesses; working alone or in a small team, in person or over the internet.
+i want to be involved with small-to-medium sized business in the development of websites, web-apps, and mobile-apps; working alone or in a small team, in person or over the internet.
 
 skills:
 
@@ -37,7 +37,7 @@ technologies:
 - python, micropython (good)
 - database design, sql, mysql (excellent)
 - linux, shell scripting, bash (excellent)
-- webserver admin, nginx, apache, memcached (excellent)
+- webserver admin, aws, nginx, apache, memcached (excellent)
 - linux networking, iptables, firewalls, pfsense (excellent)
 - nsm, cm, wireshark, security onion
 - phonegap, bitcoin/blockchain, raspberry pi, arduino, esp8266/esp32, basic electronics, google maps, twilio, yubikey, lots of other stuff... just ask me. 
