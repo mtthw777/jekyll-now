@@ -17,7 +17,7 @@ in a nutshell:
 
 primary objective:
 
-i want to be involved in building web-apps, internet businesses, and start-ups, working alone or in a small team, in person or over the internet. 
+i want to be involved with small-to-medium sized businesses (ie. not big faceless corporations) in the development of websites, web-apps, mobile apps, and internet businesses; working alone or in a small team, in person or over the internet.
 
 skills:
 
@@ -40,7 +40,7 @@ technologies:
 - webserver admin, nginx, apache, memcached (excellent)
 - linux networking, iptables, firewalls, pfsense (excellent)
 - nsm, cm, wireshark, security onion
-- phonegap, bitcoin, raspberry pi, arduino, esp8266, electronics, google maps, twilio, yubikey, lots of other stuff... just ask me. 
+- phonegap, bitcoin/blockchain, raspberry pi, arduino, esp8266/esp32, basic electronics, google maps, twilio, yubikey, lots of other stuff... just ask me. 
 
 i fully embrace open-source methods and technology and have a strong interest in security. 
 
