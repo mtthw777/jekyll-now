@@ -23,7 +23,7 @@ skills:
 
 my focus of skills is on IT, web design and development, business admin, and systems admin. 
 
-technologies:
+technologies: 
 
 - inkscape (excellent)
 - html, css (excellent)
